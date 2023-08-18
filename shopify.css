@@ -1,0 +1,139 @@
+.logo1{
+    width: 188px;
+    height: 46px;
+    margin-left: 600px;
+    margin-top: 40px;
+}
+
+.p1{
+    color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 386px;
+    font-size: 54px;
+}
+.p2{
+    color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 435px;
+    font-size: 55px;
+    margin-top: -46px;
+}
+.p3{
+    color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 353px;
+   font-size: 33px;
+   margin-top: -32px;
+}
+
+.button2{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-left: 14px;
+    width: 149px;
+    height: 39px;
+}
+.buttonall{
+    margin-left: 551px;
+    display: flex;
+
+
+}
+.mail{
+    width: 300px;
+    height: 36px;
+}
+
+.text{
+    color: white;
+    margin-left: 474px
+}
+.inside{
+    margin-left: 357px;
+}
+.allof{
+    display: flex;
+    margin-left: 130px;
+    justify-content: center;
+    align-content: space-between;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.allof1{
+    margin-top: 50px;
+}
+.content{
+    margin-top: -685px;
+}
+.p9{
+    color: gray;
+}
+body{
+    margin: 0;
+}
+.bg{
+    width: 100%;
+}
+.bord{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    scroll-margin-left: 36px;
+    height: 100px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    width: 745px;
+    margin-left: 427px;
+    margin-top: 50px;
+}
+
+.img{
+    justify-content: space-around;
+}
+.last{
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 453px;
+}
+.bu{
+    color: black;
+    background-color: green;
+    width: 82px;
+    height: 25px;
+}
+    
+
+.bu1{
+    width: 50px;
+    margin-left: 264px;
+
+}
+.lastp1{
+  font-size: 35px;
+  margin-left:-91px;
+}
+.lastp2{
+    font-size: 35px;
+}
+.lastp3{
+    margin-left: 166px;
+    margin-top: -26px;
+}
+.bu2{
+    color: white;
+    background-color: #008060;
+    width: 118px;
+    height: 41px;
+    border-radius: 4px;
+    border: none;
+}
+.p11{
+    color: #42474C;
+}
